@@ -11,7 +11,7 @@ I'm a Software Engineer, Backend Developer, Web Developer, Data Analyst and Busi
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Backend (Python - Flask).
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailto:gregory.ogbemudia@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing mailtogregory.ogbemudia@gmail.com.
 
 ---
 
